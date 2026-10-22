@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alex Javier Zuniga Flores
+# Alex  Zuniga 
 
 **Ingeniero en Informática · Desarrollador de Software · Administración de Sistemas**
 
