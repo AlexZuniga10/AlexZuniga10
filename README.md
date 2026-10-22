@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Alex Javier Zuniga Flores" />
+<img src="assets/header.svg" width="100%" alt="Alex Zuniga" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 💻 Sobre mí
 
-<img src="assets/terminal.svg" width="100%" alt="Alex Javier Zuniga Flores, Ingeniero en Informática y Oficial de IT en el Colegio Médico de Honduras. Habilidades: bases de datos, servidores Linux, redes, SSL, cPanel/WHM, Laravel y SAP DTW." />
+<img src="assets/terminal.svg" width="100%" alt="Alex Zuniga, Ingeniero en Informática y Oficial de IT en el Colegio Médico de Honduras. Habilidades: bases de datos, servidores Linux, redes, SSL, cPanel/WHM, Laravel y SAP DTW." />
 
 > La mayor parte de mi trabajo está en repositorios privados institucionales; este perfil no refleja todas mis contribuciones.
 

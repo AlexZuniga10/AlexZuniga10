@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-en.svg" width="100%" alt="Alex Javier Zuniga Flores" />
+<img src="assets/header-en.svg" width="100%" alt="Alex Zuniga" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 💻 About me
 
-<img src="assets/terminal-en.svg" width="100%" alt="Alex Javier Zuniga Flores, Computer Engineer and IT Officer at the Colegio Médico de Honduras. Skills: databases, Linux servers, networking, SSL, cPanel/WHM, Laravel and SAP DTW." />
+<img src="assets/terminal-en.svg" width="100%" alt="Alex Zuniga, Computer Engineer and IT Officer at the Colegio Médico de Honduras. Skills: databases, Linux servers, networking, SSL, cPanel/WHM, Laravel and SAP DTW." />
 
 > Most of my work lives in private institutional repositories; this profile does not reflect all of my contributions.
 

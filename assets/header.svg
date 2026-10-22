@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Alex Javier Zuniga Flores">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Alex Zuniga">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f19"/><stop offset="1" stop-color="#151b2e"/></linearGradient>
   <linearGradient id="name" x1="0" x2="1">
@@ -35,8 +35,8 @@
   <text class="sym" x="120" y="235" style="animation-delay:2.2s">$_</text>
   <text class="sym" x="940" y="160" style="animation-delay:4s">SSL</text>
   <text class="sym" x="40" y="160" style="animation-delay:3.6s">#!</text>
-  <g clip-path="url(#reveal)"><text x="500" y="128" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1" fill="url(#name)">Alex Javier Zuniga Flores</text></g>
-  <rect class="bar" x="420" y="150" width="160" height="4" rx="2" fill="url(#name)"/>
+  <g clip-path="url(#reveal)"><text x="500" y="128" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-1" fill="url(#name)">Alex Zuniga</text></g>
+  <rect class="bar" x="440" y="152" width="120" height="4" rx="2" fill="url(#name)"/>
   <text class="sub" x="500" y="194" text-anchor="middle">Ingeniero en Informática · Desarrollador de Software · Administración de Sistemas</text>
   <g class="loc"><circle class="dot" cx="408" cy="227" r="5" fill="#3fb950"/><text x="422" y="232">Tegucigalpa, Honduras 🇭🇳</text></g>
   <rect x="1" y="1" width="998" height="278" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
