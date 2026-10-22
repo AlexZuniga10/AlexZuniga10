@@ -1,17 +1,15 @@
 <div align="center">
 
-# Ricardo Ariel Anariba
+# Alex Javier Zuniga Flores
 
-**IT Specialist**
+**Computer Engineer · Software Developer · Systems Administration**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Over+a+decade+building+enterprise+software;Backend+Architecture+%7C+Data+%26+Databases;DevOps%2C+Cloud+%26+Distributed+Systems;Building+scalable+solutions+from+Honduras" alt="Animated professional headlines" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+institutional+systems;Databases%2C+Linux+servers+and+networks;SAP+and+Bionemoney+SIFCO+data+migration;Building+solutions+from+Honduras" alt="Animated professional headlines" />
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba)
-[![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexZuniga10)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexjavierzunigaflores30@gmail.com)
 
 **Tegucigalpa, Honduras 🇭🇳**
 
@@ -19,64 +17,71 @@
 
 ## Profile
 
-Software Development Specialist with **over a decade in enterprise systems**. I combine development, data, and infrastructure with requirements analysis and agile practices.
+Computer Engineer from **CEUTEC** and master's student in **Information Technology Management with a focus on Cybersecurity** at **UNITEC**. I currently work as **IT Officer at the Colegio Médico de Honduras** (Honduran Medical Association), where I manage databases, Linux servers, networks and technical support, and build the institution's systems.
 
-> Much of my experience is in private or enterprise GitLab repositories; this public portfolio does not reflect all my professional contributions.
+> Most of my work lives in private institutional repositories; this public profile does not reflect all of my contributions.
+
+## Experience
+
+- **IT Officer — Colegio Médico de Honduras** · *Mar 2026 – present*
+  Databases, Linux servers, networking and support, SSL certificate installation, environment setup in cPanel and WHM on GoDaddy, and institutional systems development.
+- **Information Management Officer — Honduran Red Cross** · *2025 – Mar 2026*
+  Data governance and quality, KoBoToolbox / ODK, ETL and executive KPI dashboards for decision-making.
+- **Internship: IT Officer and Developer — Colegio Médico de Honduras** · *Oct 2024 – Jul 2025*
+  Systems development, server and database administration, networking and technical support.
 
 ## Technologies and experience
 
-**Backend, frontend and mobile**
+**Development**
 
-REST APIs, microservices, and event-driven architecture, with additional experience in web interfaces and mobile applications with Flutter.
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet,angular,react,vite,nextjs,flutter,dart,js,html,css,firebase&amp;perline=10" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++, .NET, Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS, and Firebase" />
-
-Previous experience with **Visual FoxPro, VB.NET, and Pascal**.
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&amp;perline=11" alt="PHP, Laravel, JavaScript, TypeScript, Python, Java, C#, C++, HTML, CSS and Tailwind CSS" />
 
 **Databases and BI**
 
-Over **6 years** in data, integration, and BI: administration, modeling, optimization, ETL, and Data Warehousing; reporting with SSRS, Power BI, KNIME, and Pentaho.
+Database administration, backups and optimization; ETL, dashboards and KPIs with Power BI.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, and MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/couchdb/couchdb-original.svg" width="48" height="48" alt="CouchDB" title="CouchDB" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase" />
 
-**DevOps and infrastructure**
+**Servers, networking and infrastructure**
 
-Containers, orchestration with Rancher Community, messaging, deployments, and observability; currently focused on cloud and distributed systems.
+Linux servers, cPanel and WHM, GoDaddy hosting, SSL certificates, networking and technical support.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash,git,githubactions" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux, Bash, Git, and GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher Community" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github&amp;perline=10" alt="Linux, Bash, Git and GitHub" />
+
+**Enterprise systems**
+
+Data migration between **SAP** and **Bionemoney SIFCO** at the Colegio Médico de Honduras, and bulk loading and updating of accounts and master data with **SAP Data Transfer Workbench (DTW)**.
 
 ## Featured projects
 
-**Private repositories and public sites I contributed to**
+**Institutional systems for the Colegio Médico de Honduras** *(private repositories)*
 
-- [SACE](https://sace.se.gob.hn/): Professional participation in Honduras's national platform for school administration, enrollment, assessment, and student promotion.
-- [Whole Bible Community](https://wholebiblecommunity.com/): Contributed to backend and frontend development, as well as to the Flutter mobile apps ([Android](https://play.google.com/store/apps/details?id=com.wholebiblecommunity.app), [iOS](https://apps.apple.com/us/app/whole-bible-community/id6767597237)).
+- **CMH Institutional Platform:** public website and admin panel, fully managed from the panel.
+- **SIA, Institutional Minutes System:** recording, tracking and lookup of official minutes.
+- **SGC, Membership Registration System:** manages the registration process for member physicians.
+- **CMH Loan System:** member loan management and amortization schedules.
+- **CMH Payroll:** institutional payroll management and generation.
+- **CMH Template Loader:** bulk data loading from templates.
+- **CMH Pre-registration and Registration:** digital onboarding of new members.
+- **CMH Branch Attendance:** attendance and schedule tracking for branch staff.
+- **CMH Repository:** secure storage and lookup of institutional documents.
 
-**Selected public repositories**
+**Personal project**
 
-- [Local Infrastructure](https://github.com/raanariba/local_infrastructure): Reusable infrastructure for local development environments using Docker Compose, automation, and shared services.
-- [SIATHCPLUS](https://github.com/raanariba/SIATHCPLUS): Academic C++ project modeling basic human resources administration processes.
-- **Video servers:** complementary experiments for HLS conversion and performance comparison: [NestJS implementation](https://github.com/raanariba/videoServerNestjs), [FastAPI implementation](https://github.com/raanariba/videoServerFastAPI), and [benchmark](https://github.com/raanariba/benchmarkVideoServer).
+- **San Sebastián Raceway:** motorsport events platform with quarter-mile races and live standings, a Car Show with judges scoring from their phones, registrations with payment validation, QR check-in, certificates and reports.
 
 ## Courses
 
-`Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Django` · `Angular — Coursera` · `Kubernetes` · `DevOps`
+`Management Skills` · `MySQL to Supabase` · `Scrum` · `Information Security` · `Power BI` · `Python` · `Data Visualization`
 
 ## Contribution animation
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>

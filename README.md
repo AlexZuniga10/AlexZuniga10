@@ -1,17 +1,15 @@
 <div align="center">
 
-# Ricardo Ariel Anariba
+# Alex Javier Zuniga Flores
 
-**Especialista Informático**
+**Ingeniero en Informática · Desarrollador de Software · Administración de Sistemas**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=M%C3%A1s+de+una+d%C3%A9cada+construyendo+software+empresarial;Arquitectura+backend+%7C+Datos+y+bases+de+datos;DevOps%2C+cloud+y+sistemas+distribuidos;Construyendo+soluciones+escalables+desde+Honduras" alt="Titulares profesionales animados" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Desarrollo+de+sistemas+institucionales;Bases+de+datos%2C+servidores+Linux+y+redes;Migraci%C3%B3n+de+datos+SAP+y+Bionemoney+SIFCO;Construyendo+soluciones+desde+Honduras" alt="Titulares profesionales animados" />
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raanariba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ariel-anariba-armijo-237426173/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/raanariba)
-[![daily.dev](https://img.shields.io/badge/daily.dev-0A0A0A?style=flat-square&logo=dailydotdev&logoColor=white)](https://daily.dev/raanariba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexZuniga10)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexjavierzunigaflores30@gmail.com)
 
 **Tegucigalpa, Honduras 🇭🇳**
 
@@ -19,64 +17,71 @@
 
 ## Perfil
 
-Especialista en desarrollo de software con **más de una década en sistemas empresariales**. Combino desarrollo, datos e infraestructura con análisis de requerimientos y trabajo ágil.
+Ingeniero en Informática graduado de **CEUTEC** y maestrante en **Gestión de Tecnologías de la Información con orientación en Ciberseguridad** en **UNITEC**. Actualmente soy **Oficial de IT en el Colegio Médico de Honduras**, donde administro bases de datos, servidores Linux, redes y soporte técnico, y desarrollo los sistemas institucionales.
 
-> Gran parte de mi experiencia está en repositorios privados o corporativos de GitLab; este portafolio público no refleja todas mis contribuciones profesionales.
+> La mayor parte de mi trabajo está en repositorios privados institucionales; este perfil público no refleja todas mis contribuciones.
+
+## Experiencia
+
+- **Oficial de IT — Colegio Médico de Honduras** · *mar 2026 – presente*
+  Bases de datos, servidores Linux, redes y soporte, instalación de certificados SSL, configuración y preparación de ambientes en cPanel y WHM sobre GoDaddy, y desarrollo de sistemas institucionales.
+- **Oficial de Gestión de la Información — Cruz Roja Hondureña** · *2025 – mar 2026*
+  Gobernanza y calidad de datos, KoBoToolbox / ODK, ETL y dashboards ejecutivos con KPIs para la toma de decisiones.
+- **Práctica Profesional: Oficial de IT y Desarrollador — Colegio Médico de Honduras** · *oct 2024 – jul 2025*
+  Desarrollo de sistemas, administración de servidores y bases de datos, redes y soporte técnico.
 
 ## Tecnologías y experiencia
 
-**Backend, frontend y móvil**
+**Desarrollo**
 
-APIs REST, microservicios y arquitectura dirigida por eventos, con experiencia complementaria en interfaces web y aplicaciones móviles con Flutter.
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,django,fastapi,java,cpp,dotnet,angular,react,vite,nextjs,flutter,dart,js,html,css,firebase&amp;perline=10" alt="NestJS, Node.js, TypeScript, Python, Django, FastAPI, Java, C++, .NET, Angular, React, Vite, Next.js, Flutter, Dart, JavaScript, HTML, CSS y Firebase" />
-
-Experiencia previa con **Visual FoxPro, VB.NET y Pascal**.
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&amp;perline=11" alt="PHP, Laravel, JavaScript, TypeScript, Python, Java, C#, C++, HTML, CSS y Tailwind CSS" />
 
 **Bases de datos y BI**
 
-Más de **6 años** en datos, integración y BI: administración, modelado, optimización, ETL y Data Warehouse; reportes con SSRS, Power BI, KNIME y Pentaho.
+Administración, respaldos y optimización de bases de datos; ETL, dashboards y KPIs con Power BI.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL y MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/couchdb/couchdb-original.svg" width="48" height="48" alt="CouchDB" title="CouchDB" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL y Supabase" />
 
-**DevOps e infraestructura**
+**Servidores, redes e infraestructura**
 
-Contenedores, orquestación con Rancher Community, mensajería, despliegues y observabilidad; enfoque actual en cloud y sistemas distribuidos.
+Servidores Linux, cPanel y WHM, hosting en GoDaddy, certificados SSL, redes y soporte técnico.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,rabbitmq,linux,bash,git,githubactions" alt="Docker, Kubernetes, Nginx, RabbitMQ, Linux, Bash, Git y GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher Community" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github&amp;perline=10" alt="Linux, Bash, Git y GitHub" />
+
+**Sistemas empresariales**
+
+Migración de datos entre **SAP** y **Bionemoney SIFCO** en el Colegio Médico de Honduras, y carga y actualización masiva de cuentas y datos maestros con **SAP Data Transfer Workbench (DTW)**.
 
 ## Proyectos destacados
 
-**Repositorios privados y sitios públicos en los que colaboré**
+**Sistemas institucionales del Colegio Médico de Honduras** *(repositorios privados)*
 
-- [SACE](https://sace.se.gob.hn/): Participación profesional en la plataforma nacional para la administración de centros educativos, matrícula, evaluación y promoción estudiantil.
-- [Whole Bible Community](https://wholebiblecommunity.com/): Participación en desarrollo backend y frontend, además de aportes a las aplicaciones móviles con Flutter ([Android](https://play.google.com/store/apps/details?id=com.wholebiblecommunity.app), [iOS](https://apps.apple.com/us/app/whole-bible-community/id6767597237)).
+- **Plataforma Institucional CMH:** portal público y panel administrativo del Colegio, administrable por completo desde el panel.
+- **SIA, Sistema Institucional de Actas:** registro, control y consulta de las actas institucionales.
+- **SGC, Sistema de Colegiación:** gestión del proceso de colegiación de los médicos agremiados.
+- **Sistema de Préstamos CMH:** gestión de préstamos a agremiados y cálculo de tablas de amortización.
+- **Planillas CMH:** gestión y generación de planillas institucionales.
+- **Cargador de Plantillas CMH:** carga masiva de datos a partir de plantillas.
+- **Preinscripciones e Inscripciones CMH:** digitalización del registro de nuevos agremiados.
+- **Marcaje de Delegaciones CMH:** control de asistencia y horarios del personal de las delegaciones.
+- **Repositorio CMH:** almacenamiento y consulta segura de documentos institucionales.
 
-**Repositorios públicos seleccionados**
+**Proyecto propio**
 
-- [Local Infrastructure](https://github.com/raanariba/local_infrastructure): Infraestructura reutilizable para entornos de desarrollo locales con Docker Compose, automatización y servicios compartidos.
-- [SIATHCPLUS](https://github.com/raanariba/SIATHCPLUS): Proyecto académico en C++ que modela procesos básicos de administración de talento humano.
-- **Servidores de video:** experimentos complementarios de conversión a HLS y comparación de rendimiento: [implementación NestJS](https://github.com/raanariba/videoServerNestjs), [implementación FastAPI](https://github.com/raanariba/videoServerFastAPI) y [benchmark](https://github.com/raanariba/benchmarkVideoServer).
+- **San Sebastián Raceway:** plataforma para eventos automovilísticos con carreras de cuarto de milla y posiciones en vivo, Car Show con calificación de jueces desde el celular, inscripciones con validación de pago, QR de ingreso, certificados y reportes.
 
 ## Cursos
 
-`Scrum Master — PROMESYS` · `Business Intelligence — New Horizons` · `Power BI — USAID` · `Django` · `Angular — Coursera` · `Kubernetes` · `DevOps`
+`Habilidades Gerenciales` · `MySQL hasta Supabase` · `Scrum` · `Seguridad de la Información` · `Power BI` · `Python` · `Visualización de datos`
 
 ## Animación de contribuciones
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/raanariba/raanariba/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
