@@ -1,87 +1,68 @@
 <div align="center">
 
-# Alex  Zuniga 
+<img src="assets/header.svg" width="100%" alt="Alex Javier Zuniga Flores" />
 
-**Ingeniero en Informática · Desarrollador de Software · Administración de Sistemas**
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Desarrollo+de+sistemas+institucionales;Bases+de+datos%2C+servidores+Linux+y+redes;Migraci%C3%B3n+de+datos+SAP+y+Bionemoney+SIFCO;Construyendo+soluciones+desde+Honduras" alt="Titulares profesionales animados" />
+<a href="https://github.com/AlexZuniga10"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:alexjavierzunigaflores30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<img src="https://komarev.com/ghpvc/?username=AlexZuniga10&label=Visitas&color=7c3aed&style=for-the-badge" alt="Visitas" />
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexZuniga10)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexjavierzunigaflores30@gmail.com)
-
-**Tegucigalpa, Honduras 🇭🇳**
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-## Perfil
+## 💻 Sobre mí
 
-Ingeniero en Informática graduado de **CEUTEC** y maestrante en **Gestión de Tecnologías de la Información con orientación en Ciberseguridad** en **UNITEC**. Actualmente soy **Oficial de IT en el Colegio Médico de Honduras**, donde administro bases de datos, servidores Linux, redes y soporte técnico, y desarrollo los sistemas institucionales.
+<img src="assets/terminal.svg" width="100%" alt="Alex Javier Zuniga Flores, Ingeniero en Informática y Oficial de IT en el Colegio Médico de Honduras. Habilidades: bases de datos, servidores Linux, redes, SSL, cPanel/WHM, Laravel y SAP DTW." />
 
-> La mayor parte de mi trabajo está en repositorios privados institucionales; este perfil público no refleja todas mis contribuciones.
+> La mayor parte de mi trabajo está en repositorios privados institucionales; este perfil no refleja todas mis contribuciones.
 
-## Experiencia
+## 🚀 Trayectoria
 
-- **Oficial de IT — Colegio Médico de Honduras** · *mar 2026 – presente*
-  Bases de datos, servidores Linux, redes y soporte, instalación de certificados SSL, configuración y preparación de ambientes en cPanel y WHM sobre GoDaddy, y desarrollo de sistemas institucionales.
-- **Oficial de Gestión de la Información — Cruz Roja Hondureña** · *2025 – mar 2026*
-  Gobernanza y calidad de datos, KoBoToolbox / ODK, ETL y dashboards ejecutivos con KPIs para la toma de decisiones.
-- **Práctica Profesional: Oficial de IT y Desarrollador — Colegio Médico de Honduras** · *oct 2024 – jul 2025*
-  Desarrollo de sistemas, administración de servidores y bases de datos, redes y soporte técnico.
+<img src="assets/timeline.svg" width="100%" alt="Oficial de IT, Colegio Médico de Honduras (mar 2026 – presente). Oficial de Gestión de la Información, Cruz Roja Hondureña (2025 – mar 2026). Práctica Profesional en IT y Desarrollo, Colegio Médico de Honduras (oct 2024 – jul 2025)." />
 
-## Tecnologías y experiencia
+## 🛠️ Tecnologías
 
-**Desarrollo**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&amp;perline=11" alt="PHP, Laravel, JavaScript, TypeScript, Python, Java, C#, C++, HTML, CSS y Tailwind CSS" />
+<table>
+<tr><td align="right"><b>Desarrollo</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&perline=11" alt="php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind" /></td></tr>
+<tr><td align="right"><b>Bases de datos</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=mysql,supabase&perline=11" alt="mysql,supabase" /></td></tr>
+<tr><td align="right"><b>Servidores e infraestructura</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=linux,bash,git,github,vscode&perline=11" alt="linux,bash,git,github,vscode" /></td></tr>
+</table>
 
-**Bases de datos y BI**
+<img src="https://img.shields.io/badge/SAP%20DTW-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP DTW" /> <img src="https://img.shields.io/badge/Bionemoney%20SIFCO-1f6feb?style=for-the-badge" alt="Bionemoney SIFCO" /> <img src="https://img.shields.io/badge/cPanel%20/%20WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel / WHM" /> <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black" alt="GoDaddy" /> <img src="https://img.shields.io/badge/SSL-2EA44F?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/KoBoToolbox-2C3E50?style=for-the-badge" alt="KoBoToolbox" />
 
-Administración, respaldos y optimización de bases de datos; ETL, dashboards y KPIs con Power BI.
+</div>
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL y Supabase" />
+## 📂 Proyectos
 
-**Servidores, redes e infraestructura**
+<img src="assets/projects.svg" width="100%" alt="Sistemas del Colegio Médico de Honduras: Plataforma Institucional, SIA Actas, SGC Colegiación, Préstamos, Planillas, Cargador de Plantillas, Inscripciones, Marcaje de Delegaciones y Repositorio. Proyecto propio: San Sebastián Raceway. Migración de datos SAP y Bionemoney SIFCO." />
 
-Servidores Linux, cPanel y WHM, hosting en GoDaddy, certificados SSL, redes y soporte técnico.
+## 🎓 Formación y cursos
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github&amp;perline=10" alt="Linux, Bash, Git y GitHub" />
+<div align="center">
 
-**Sistemas empresariales**
+<img src="https://img.shields.io/badge/Ing.%20en%20Inform%C3%A1tica%20%C2%B7%20CEUTEC-0d1117?style=for-the-badge&logo=academia&logoColor=white" alt="Ing. en Informática · CEUTEC" />
+<img src="https://img.shields.io/badge/Maestr%C3%ADa%20TI%20y%20Ciberseguridad%20%C2%B7%20UNITEC-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Maestría TI y Ciberseguridad · UNITEC" />
 
-Migración de datos entre **SAP** y **Bionemoney SIFCO** en el Colegio Médico de Honduras, y carga y actualización masiva de cuentas y datos maestros con **SAP Data Transfer Workbench (DTW)**.
+<img src="https://img.shields.io/badge/Habilidades%20Gerenciales-c8102e?style=for-the-badge" alt="Habilidades Gerenciales" /> <img src="https://img.shields.io/badge/MySQL%20hasta%20Supabase-7c3aed?style=for-the-badge" alt="MySQL hasta Supabase" /> <img src="https://img.shields.io/badge/Scrum-0891b2?style=for-the-badge" alt="Scrum" /> <img src="https://img.shields.io/badge/Seguridad%20de%20la%20Informaci%C3%B3n-c8102e?style=for-the-badge" alt="Seguridad de la Información" /> <img src="https://img.shields.io/badge/Power%20BI-7c3aed?style=for-the-badge" alt="Power BI" /> <img src="https://img.shields.io/badge/Python-0891b2?style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/Visualizaci%C3%B3n%20de%20datos-c8102e?style=for-the-badge" alt="Visualización de datos" />
 
-## Proyectos destacados
+</div>
 
-**Sistemas institucionales del Colegio Médico de Honduras** *(repositorios privados)*
-
-- **Plataforma Institucional CMH:** portal público y panel administrativo del Colegio, administrable por completo desde el panel.
-- **SIA, Sistema Institucional de Actas:** registro, control y consulta de las actas institucionales.
-- **SGC, Sistema de Colegiación:** gestión del proceso de colegiación de los médicos agremiados.
-- **Sistema de Préstamos CMH:** gestión de préstamos a agremiados y cálculo de tablas de amortización.
-- **Planillas CMH:** gestión y generación de planillas institucionales.
-- **Cargador de Plantillas CMH:** carga masiva de datos a partir de plantillas.
-- **Preinscripciones e Inscripciones CMH:** digitalización del registro de nuevos agremiados.
-- **Marcaje de Delegaciones CMH:** control de asistencia y horarios del personal de las delegaciones.
-- **Repositorio CMH:** almacenamiento y consulta segura de documentos institucionales.
-
-**Proyecto propio**
-
-- **San Sebastián Raceway:** plataforma para eventos automovilísticos con carreras de cuarto de milla y posiciones en vivo, Car Show con calificación de jueces desde el celular, inscripciones con validación de pago, QR de ingreso, certificados y reportes.
-
-## Cursos
-
-`Habilidades Gerenciales` · `MySQL hasta Supabase` · `Scrum` · `Seguridad de la Información` · `Power BI` · `Python` · `Visualización de datos`
-
-## Animación de contribuciones
+## 🐍 Contribuciones
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones de GitHub" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>

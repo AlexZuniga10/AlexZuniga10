@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Career">
+<style>
+  .d { font: 600 14px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'DejaVu Sans Mono', monospace; fill: #8b98ad }
+  .r { font: 700 20px 'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e6edf3 }
+  .o { font: 600 15px 'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif }
+  .k { font: 14px 'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8b98ad }
+  .line { stroke-dasharray: 260; stroke-dashoffset: 260; animation: draw 1.6s .2s ease-out forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0 } }
+  .it { opacity: 0; animation: in .7s ease-out forwards; }
+  @keyframes in { from { opacity:0; transform: translateX(-14px) } to { opacity:1; transform: translateX(0) } }
+  .ring { transform-box: fill-box; transform-origin: center; animation: ring 2.4s ease-out infinite; }
+  @keyframes ring { 0% { transform: scale(1); opacity:.7 } 100% { transform: scale(2.6); opacity:0 } }
+</style>
+<rect x="1" y="1" width="998" height="328" rx="14" fill="#0b0f19" stroke="#243049"/>
+<line class="line" x1="214" y1="58" x2="214" y2="242" stroke="#243049" stroke-width="3"/>
+<g class="it" style="animation-delay:0.4s">
+  <circle class="ring" cx="214" cy="58" r="9" fill="none" stroke="#ff3b5c" stroke-width="2"/>
+  <circle cx="214" cy="58" r="9" fill="#0b0f19" stroke="#ff3b5c" stroke-width="3"/><circle cx="214" cy="58" r="4" fill="#ff3b5c"/>
+  <text class="d" x="190" y="63" text-anchor="end">Mar 2026 – present</text>
+  <text class="r" x="244" y="65">IT Officer</text>
+  <text class="o" x="244" y="89" fill="#ff3b5c">Colegio Médico de Honduras</text>
+  <text class="k" x="244" y="111">Databases · Linux servers · Networking · SSL · cPanel/WHM</text>
+</g>
+<g class="it" style="animation-delay:0.8500000000000001s">
+  <circle cx="214" cy="150" r="9" fill="#0b0f19" stroke="#22d3ee" stroke-width="3"/><circle cx="214" cy="150" r="4" fill="#22d3ee"/>
+  <text class="d" x="190" y="155" text-anchor="end">2025 – Mar 2026</text>
+  <text class="r" x="244" y="157">Information Management Officer</text>
+  <text class="o" x="244" y="181" fill="#22d3ee">Honduran Red Cross</text>
+  <text class="k" x="244" y="203">Data governance · KoBoToolbox / ODK · ETL · Dashboards</text>
+</g>
+<g class="it" style="animation-delay:1.3s">
+  <circle cx="214" cy="242" r="9" fill="#0b0f19" stroke="#a78bfa" stroke-width="3"/><circle cx="214" cy="242" r="4" fill="#a78bfa"/>
+  <text class="d" x="190" y="247" text-anchor="end">Oct 2024 – Jul 2025</text>
+  <text class="r" x="244" y="249">Internship · IT &amp; Development</text>
+  <text class="o" x="244" y="273" fill="#a78bfa">Colegio Médico de Honduras</text>
+  <text class="k" x="244" y="295">Systems development · Servers · Networking · Support</text>
+</g>
+</svg>

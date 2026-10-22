@@ -1,87 +1,68 @@
 <div align="center">
 
-# Alex Javier Zuniga Flores
+<img src="assets/header-en.svg" width="100%" alt="Alex Javier Zuniga Flores" />
 
-**Computer Engineer · Software Developer · Systems Administration**
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+institutional+systems;Databases%2C+Linux+servers+and+networks;SAP+and+Bionemoney+SIFCO+data+migration;Building+solutions+from+Honduras" alt="Animated professional headlines" />
+<a href="https://github.com/AlexZuniga10"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:alexjavierzunigaflores30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<img src="https://komarev.com/ghpvc/?username=AlexZuniga10&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 
 [🇪🇸 Español](README.md) · [🇬🇧 English](README.en.md)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexZuniga10)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexjavierzunigaflores30@gmail.com)
-
-**Tegucigalpa, Honduras 🇭🇳**
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
-## Profile
+## 💻 About me
 
-Computer Engineer from **CEUTEC** and master's student in **Information Technology Management with a focus on Cybersecurity** at **UNITEC**. I currently work as **IT Officer at the Colegio Médico de Honduras** (Honduran Medical Association), where I manage databases, Linux servers, networks and technical support, and build the institution's systems.
+<img src="assets/terminal-en.svg" width="100%" alt="Alex Javier Zuniga Flores, Computer Engineer and IT Officer at the Colegio Médico de Honduras. Skills: databases, Linux servers, networking, SSL, cPanel/WHM, Laravel and SAP DTW." />
 
-> Most of my work lives in private institutional repositories; this public profile does not reflect all of my contributions.
+> Most of my work lives in private institutional repositories; this profile does not reflect all of my contributions.
 
-## Experience
+## 🚀 Career
 
-- **IT Officer — Colegio Médico de Honduras** · *Mar 2026 – present*
-  Databases, Linux servers, networking and support, SSL certificate installation, environment setup in cPanel and WHM on GoDaddy, and institutional systems development.
-- **Information Management Officer — Honduran Red Cross** · *2025 – Mar 2026*
-  Data governance and quality, KoBoToolbox / ODK, ETL and executive KPI dashboards for decision-making.
-- **Internship: IT Officer and Developer — Colegio Médico de Honduras** · *Oct 2024 – Jul 2025*
-  Systems development, server and database administration, networking and technical support.
+<img src="assets/timeline-en.svg" width="100%" alt="IT Officer, Colegio Médico de Honduras (Mar 2026 – present). Information Management Officer, Honduran Red Cross (2025 – Mar 2026). IT and Development Internship, Colegio Médico de Honduras (Oct 2024 – Jul 2025)." />
 
-## Technologies and experience
+## 🛠️ Tech stack
 
-**Development**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&amp;perline=11" alt="PHP, Laravel, JavaScript, TypeScript, Python, Java, C#, C++, HTML, CSS and Tailwind CSS" />
+<table>
+<tr><td align="right"><b>Development</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&perline=11" alt="php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind" /></td></tr>
+<tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=mysql,supabase&perline=11" alt="mysql,supabase" /></td></tr>
+<tr><td align="right"><b>Servers & infrastructure</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=linux,bash,git,github,vscode&perline=11" alt="linux,bash,git,github,vscode" /></td></tr>
+</table>
 
-**Databases and BI**
+<img src="https://img.shields.io/badge/SAP%20DTW-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP DTW" /> <img src="https://img.shields.io/badge/Bionemoney%20SIFCO-1f6feb?style=for-the-badge" alt="Bionemoney SIFCO" /> <img src="https://img.shields.io/badge/cPanel%20/%20WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel / WHM" /> <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black" alt="GoDaddy" /> <img src="https://img.shields.io/badge/SSL-2EA44F?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/KoBoToolbox-2C3E50?style=for-the-badge" alt="KoBoToolbox" />
 
-Database administration, backups and optimization; ETL, dashboards and KPIs with Power BI.
+</div>
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase" />
+## 📂 Projects
 
-**Servers, networking and infrastructure**
+<img src="assets/projects-en.svg" width="100%" alt="Colegio Médico de Honduras systems: Institutional Platform, SIA Minutes, SGC Membership, Loans, Payroll, Template Loader, Registration, Branch Attendance and Repository. Personal project: San Sebastián Raceway. SAP and Bionemoney SIFCO data migration." />
 
-Linux servers, cPanel and WHM, GoDaddy hosting, SSL certificates, networking and technical support.
+## 🎓 Education & courses
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github&amp;perline=10" alt="Linux, Bash, Git and GitHub" />
+<div align="center">
 
-**Enterprise systems**
+<img src="https://img.shields.io/badge/B.Eng.%20Computer%20Engineering%20%C2%B7%20CEUTEC-0d1117?style=for-the-badge&logo=academia&logoColor=white" alt="B.Eng. Computer Engineering · CEUTEC" />
+<img src="https://img.shields.io/badge/M.Sc.%20IT%20%26%20Cybersecurity%20%C2%B7%20UNITEC-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white" alt="M.Sc. IT & Cybersecurity · UNITEC" />
 
-Data migration between **SAP** and **Bionemoney SIFCO** at the Colegio Médico de Honduras, and bulk loading and updating of accounts and master data with **SAP Data Transfer Workbench (DTW)**.
+<img src="https://img.shields.io/badge/Management%20Skills-c8102e?style=for-the-badge" alt="Management Skills" /> <img src="https://img.shields.io/badge/MySQL%20to%20Supabase-7c3aed?style=for-the-badge" alt="MySQL to Supabase" /> <img src="https://img.shields.io/badge/Scrum-0891b2?style=for-the-badge" alt="Scrum" /> <img src="https://img.shields.io/badge/Information%20Security-c8102e?style=for-the-badge" alt="Information Security" /> <img src="https://img.shields.io/badge/Power%20BI-7c3aed?style=for-the-badge" alt="Power BI" /> <img src="https://img.shields.io/badge/Python-0891b2?style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/Data%20Visualization-c8102e?style=for-the-badge" alt="Data Visualization" />
 
-## Featured projects
+</div>
 
-**Institutional systems for the Colegio Médico de Honduras** *(private repositories)*
-
-- **CMH Institutional Platform:** public website and admin panel, fully managed from the panel.
-- **SIA, Institutional Minutes System:** recording, tracking and lookup of official minutes.
-- **SGC, Membership Registration System:** manages the registration process for member physicians.
-- **CMH Loan System:** member loan management and amortization schedules.
-- **CMH Payroll:** institutional payroll management and generation.
-- **CMH Template Loader:** bulk data loading from templates.
-- **CMH Pre-registration and Registration:** digital onboarding of new members.
-- **CMH Branch Attendance:** attendance and schedule tracking for branch staff.
-- **CMH Repository:** secure storage and lookup of institutional documents.
-
-**Personal project**
-
-- **San Sebastián Raceway:** motorsport events platform with quarter-mile races and live standings, a Car Show with judges scoring from their phones, registrations with payment validation, QR check-in, certificates and reports.
-
-## Courses
-
-`Management Skills` · `MySQL to Supabase` · `Scrum` · `Information Security` · `Power BI` · `Python` · `Data Visualization`
-
-## Contribution animation
+## 🐍 Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution animation" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img src="assets/footer-en.svg" width="100%" alt="" />
 
 </div>

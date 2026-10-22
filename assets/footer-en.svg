@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+<defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#ff3b5c"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<path fill="url(#f)" opacity=".35"><animate attributeName="d" dur="9s" repeatCount="indefinite"
+ values="M0 60 C250 20 500 100 1000 50 V120 H0Z;M0 50 C300 100 650 10 1000 70 V120 H0Z;M0 60 C250 20 500 100 1000 50 V120 H0Z"/></path>
+<path fill="url(#f)" opacity=".7"><animate attributeName="d" dur="7s" repeatCount="indefinite"
+ values="M0 80 C300 50 600 110 1000 75 V120 H0Z;M0 75 C250 110 700 50 1000 85 V120 H0Z;M0 80 C300 50 600 110 1000 75 V120 H0Z"/></path>
+<text x="500" y="106" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b0f19">Thanks for visiting my profile ✦</text>
+</svg>
