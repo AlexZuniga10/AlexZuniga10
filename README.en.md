@@ -53,15 +53,11 @@
 
 </div>
 
-## 🐍 Contributions
+## 🚀 Contribution space battle
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution animation" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/space-battle.svg" width="100%" alt="Space battle: a starship destroys the contribution calendar squares" />
 
 <img src="assets/footer-en.svg" width="100%" alt="" />
 

@@ -53,15 +53,11 @@
 
 </div>
 
-## 🐍 Contribuciones
+## 🚀 Batalla espacial de contribuciones
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/AlexZuniga10/AlexZuniga10/output/space-battle.svg" width="100%" alt="Batalla espacial: una nave destruye los cuadros del calendario de contribuciones" />
 
 <img src="assets/footer.svg" width="100%" alt="" />
 
