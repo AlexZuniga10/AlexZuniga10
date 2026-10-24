@@ -26,17 +26,7 @@
 
 ## 🛠️ Tech stack
 
-<div align="center">
-
-<table>
-<tr><td align="right"><b>Development</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind&perline=11" alt="php,laravel,js,ts,python,java,cs,cpp,html,css,tailwind" /></td></tr>
-<tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=mysql,supabase&perline=11" alt="mysql,supabase" /></td></tr>
-<tr><td align="right"><b>Servers & infrastructure</b></td><td><img src="https://skillicons.dev/icons?theme=dark&i=linux,bash,git,github,vscode&perline=11" alt="linux,bash,git,github,vscode" /></td></tr>
-</table>
-
-<img src="https://img.shields.io/badge/SAP%20DTW-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP DTW" /> <img src="https://img.shields.io/badge/Bionemoney%20SIFCO-1f6feb?style=for-the-badge" alt="Bionemoney SIFCO" /> <img src="https://img.shields.io/badge/cPanel%20/%20WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel / WHM" /> <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black" alt="GoDaddy" /> <img src="https://img.shields.io/badge/SSL-2EA44F?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/KoBoToolbox-2C3E50?style=for-the-badge" alt="KoBoToolbox" />
-
-</div>
+<img src="assets/stack-en.svg" width="100%" alt="Tech system: Development (PHP, Laravel, JavaScript, TypeScript, Python, Java, C#, C++, Tailwind); Data & infrastructure (MySQL, Supabase, Linux, cPanel/WHM, GoDaddy, SSL, Networking, Git); Enterprise & BI (SAP DTW, Bionemoney SIFCO, Power BI, ETL, KoBoToolbox, Scrum)" />
 
 ## 📂 Projects
 
