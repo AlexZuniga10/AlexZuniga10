@@ -1,0 +1,36 @@
+name: Generate contribution space battle
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/space_battle.py", ".github/workflows/space-battle.yml"]
+  schedule:
+    - cron: "45 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: space-battle
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate space battle SVG
+        run: |
+          mkdir -p dist
+          python3 .github/scripts/space_battle.py "${{ github.repository_owner }}" dist/space-battle.svg
+
+      - name: Publish SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
