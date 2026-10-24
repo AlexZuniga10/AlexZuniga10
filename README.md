@@ -34,14 +34,7 @@
 
 ## 🎓 Formación y cursos
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Ing.%20en%20Inform%C3%A1tica%20%C2%B7%20CEUTEC-0d1117?style=for-the-badge&logo=academia&logoColor=white" alt="Ing. en Informática · CEUTEC" />
-<img src="https://img.shields.io/badge/Maestr%C3%ADa%20TI%20y%20Ciberseguridad%20%C2%B7%20UNITEC-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Maestría TI y Ciberseguridad · UNITEC" />
-
-<img src="https://img.shields.io/badge/Habilidades%20Gerenciales-c8102e?style=for-the-badge" alt="Habilidades Gerenciales" /> <img src="https://img.shields.io/badge/MySQL%20hasta%20Supabase-7c3aed?style=for-the-badge" alt="MySQL hasta Supabase" /> <img src="https://img.shields.io/badge/Scrum-0891b2?style=for-the-badge" alt="Scrum" /> <img src="https://img.shields.io/badge/Seguridad%20de%20la%20Informaci%C3%B3n-c8102e?style=for-the-badge" alt="Seguridad de la Información" /> <img src="https://img.shields.io/badge/Power%20BI-7c3aed?style=for-the-badge" alt="Power BI" /> <img src="https://img.shields.io/badge/Python-0891b2?style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/Visualizaci%C3%B3n%20de%20datos-c8102e?style=for-the-badge" alt="Visualización de datos" />
-
-</div>
+<img src="assets/education.svg" width="100%" alt="Formación: Ingeniería en Informática (CEUTEC, 2021–2025), Maestría en Gestión de TI con orientación en Ciberseguridad (UNITEC, en curso). Cursos: Habilidades Gerenciales, MySQL hasta Supabase, Metodología Scrum, Seguridad de la Información, Power BI, Python y Visualización de datos." />
 
 ## 🚀 Batalla espacial de contribuciones
 

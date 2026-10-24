@@ -34,14 +34,7 @@
 
 ## 🎓 Education & courses
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/B.Eng.%20Computer%20Engineering%20%C2%B7%20CEUTEC-0d1117?style=for-the-badge&logo=academia&logoColor=white" alt="B.Eng. Computer Engineering · CEUTEC" />
-<img src="https://img.shields.io/badge/M.Sc.%20IT%20%26%20Cybersecurity%20%C2%B7%20UNITEC-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white" alt="M.Sc. IT & Cybersecurity · UNITEC" />
-
-<img src="https://img.shields.io/badge/Management%20Skills-c8102e?style=for-the-badge" alt="Management Skills" /> <img src="https://img.shields.io/badge/MySQL%20to%20Supabase-7c3aed?style=for-the-badge" alt="MySQL to Supabase" /> <img src="https://img.shields.io/badge/Scrum-0891b2?style=for-the-badge" alt="Scrum" /> <img src="https://img.shields.io/badge/Information%20Security-c8102e?style=for-the-badge" alt="Information Security" /> <img src="https://img.shields.io/badge/Power%20BI-7c3aed?style=for-the-badge" alt="Power BI" /> <img src="https://img.shields.io/badge/Python-0891b2?style=for-the-badge" alt="Python" /> <img src="https://img.shields.io/badge/Data%20Visualization-c8102e?style=for-the-badge" alt="Data Visualization" />
-
-</div>
+<img src="assets/education-en.svg" width="100%" alt="Education: B.Eng. Computer Engineering (CEUTEC, 2021–2025), M.Sc. IT Management with a focus on Cybersecurity (UNITEC, in progress). Courses: Management Skills, MySQL to Supabase, Scrum Methodology, Information Security, Power BI, Python and Data Visualization." />
 
 ## 🚀 Contribution space battle
 
